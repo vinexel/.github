@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vinexel/vinexel/actions">
-    <img src="https://github.com/vinexel/vinexel/workflows/tests/badge.svg" alt="Build Status">
-  </a>
   <a href="https://packagist.org/packages/vinexel/vision-serve">
     <img src="https://img.shields.io/packagist/dt/vinexel/vision-serve" alt="Total Downloads">
   </a>
