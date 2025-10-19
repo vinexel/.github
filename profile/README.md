@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://vinexel.com" target="_blank">
-        <img src="https://vinexel.com/static/vinexel/img/logo.png" width="400" alt="Vinexel Framework">
+        <img src="https://vinexel.com/public/static/vinexel/img/logo.png" width="400" alt="Vinexel Framework">
     </a>
 </p>
 
