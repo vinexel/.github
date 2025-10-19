@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://vinexel.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/vinexel/art/main/logo/vinexel-full-color.svg" width="400" alt="Vinexel Framework">
+        <img src="https://vinexel.com/static/vinexel/img/logo.png" width="400" alt="Vinexel Framework">
     </a>
 </p>
 
@@ -12,7 +12,7 @@ It provides an expressive syntax and modular structure that allows developers to
 Vinexel makes development enjoyable by simplifying common tasks used in many web projects, such as:
 
 - ⚡ Simple and fast **routing system**.
-- 🧩 Modular **MVC architecture** with clear separation of concerns.
+- 🧩 Modular **H-MVC architecture** with clear separation of concerns.
 - 🧠 Built-in **Dependency Container** for service management.
 - 💾 Powerful **Database abstraction** layer using PDO.
 - 🔄 Schema-based **migrations and seeders**.
