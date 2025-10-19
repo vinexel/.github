@@ -1,68 +1,54 @@
 <p align="center">
-  <a href="https://vinexel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/vinexel/art/main/logo/vinexel-logo-full.svg" width="400" alt="Vinexel Logo">
-  </a>
+    <a href="https://vinexel.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/vinexel/art/main/logo/vinexel-full-color.svg" width="400" alt="Vinexel Framework">
+    </a>
 </p>
-
-<p align="center">
-  <a href="https://packagist.org/packages/vinexel/vision-serve">
-    <img src="https://img.shields.io/packagist/dt/vinexel/vision-serve" alt="Total Downloads">
-  </a>
-  <a href="https://packagist.org/packages/vinexel/vision-serve">
-    <img src="https://img.shields.io/packagist/v/vinexel/vision-serve" alt="Latest Stable Version">
-  </a>
-  <a href="https://packagist.org/packages/vinexel/vision-serve">
-    <img src="https://img.shields.io/packagist/l/vinexel/vision-serve" alt="License">
-  </a>
-</p>
-
----
 
 ## About Vinexel
 
-**Vinexel** is a modern PHP framework built for scalability, modularity, and developer experience.  
-Inspired by the best of elegance and the simplicity of native PHP, Vinexel provides a robust foundation for building everything from small web applications to large-scale SaaS platforms.
+**Vinexel** is a modern PHP framework designed for flexibility, scalability, and simplicity.  
+It provides an expressive syntax and modular structure that allows developers to build web applications efficiently — from lightweight APIs to large-scale enterprise systems.
 
-Vinexel simplifies web development by offering built-in tools for:
+Vinexel makes development enjoyable by simplifying common tasks used in many web projects, such as:
 
-- ⚡ [Fast and clean routing system](https://vinexel.com/docs/routing)
-- 🧱 Modular [Hexagonal Architecture](https://vinexel.com/docs/architecture)
-- 💾 Lightweight [Query Builder and ORM](https://vinexel.com/docs/database)
-- 🧩 Environment-based configuration (`.env` support)
-- 🧠 Built-in [Dependency Container](https://vinexel.com/docs/container)
-- 🧮 Seamless [Multi-domain & multi-tenant support](https://vinexel.com/docs/multitenant)
-- 🚀 Extensible CLI & development server
+- ⚡ Simple and fast **routing system**.
+- 🧩 Modular **MVC architecture** with clear separation of concerns.
+- 🧠 Built-in **Dependency Container** for service management.
+- 💾 Powerful **Database abstraction** layer using PDO.
+- 🔄 Schema-based **migrations and seeders**.
+- 🧰 Support for **multi-domain and multi-tenant** environments.
+- 🚀 Developer-friendly **CLI tools** for automation and scaffolding.
 
-Vinexel is **accessible, powerful, and framework-agnostic** — designed to be the backbone of your next-generation PHP projects.
+Vinexel is accessible, developer-oriented, and provides everything you need to create modern PHP applications with elegance and precision.
 
 ---
 
 ## Learning Vinexel
 
-Vinexel offers complete [documentation](https://vinexel.com/docs) and examples to help developers quickly understand its architecture and workflow.
+Vinexel offers clear documentation and an intuitive structure — making it easy for beginners and powerful for professionals.
 
-If you're just getting started, try the **Vinexel Starter** project to see how the framework handles routing, controllers, and services in action:
-> [https://github.com/vinexel/starter](https://github.com/vinexel/starter)
+- 📚 [Vinexel Documentation](https://docs.vinexel.com)
+- 🎓 [Vinexel Bootcamp](https://bootcamp.vinexel.com)
+- 💬 [Community Discussions](https://github.com/vinexel/vinexel/discussions)
+- 🧪 [Examples & Starters](https://github.com/vinexel/examples)
 
-You can also follow video tutorials and learn best practices from the **Vinexel Developer Community**.
+Whether you’re building a personal project or a production-level platform, Vinexel helps you move fast with clean and maintainable code.
 
 ---
 
 ## Contributing
 
-We welcome contributions!  
-Please see our [Contribution Guide](https://github.com/vinexel/vinexel/blob/3.x/CONTRIBUTING.md) for instructions on how to get started.  
-Whether you want to fix bugs, improve documentation, or build new components — we’d love your help.
+Thank you for considering contributing to the Vinexel Framework!  
+You can contribute through pull requests, reporting issues, or improving documentation.
 
----
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Vinexel, please email our security team at **security@vinexel.com**.  
-All security vulnerabilities will be promptly addressed.
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m "Add new feature"`)  
+4. Push to your branch (`git push origin feature-name`)  
+5. Create a pull request
 
 ---
 
 ## License
 
-Vinexel Framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Vinexel framework is open-sourced software licensed under the [MIT license](LICENSE).
