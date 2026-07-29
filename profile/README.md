@@ -1,33 +1,53 @@
-<p align="center"># Vinexel</p>
+<div align="center">
 
-**Vinexel is a digital ecosystem built to create technology that is simpler, more efficient, more integrated, and easier to use.**
+# Vinexel
 
-Vinexel brings together various projects, products, and initiatives under one shared vision: delivering digital experiences that help people build, create, and grow without unnecessary complexity.
+### A connected ecosystem for meaningful technology.
 
-Our philosophy is inspired by science: complex systems can be understood through simple principles, efficiency creates clarity, knowledge should remain accessible, and every discovery is connected to a broader system.
+**Simple by design. Efficient by nature. Connected by purpose.**
 
-We believe technology should follow the same principles. It should be simple enough to understand, efficient enough to be sustainable, easy enough to use, broad enough to create meaningful possibilities, and interconnected enough to grow as one unified ecosystem.
-
-The best technology is not only powerful. It is understandable, accessible, purposeful, and capable of creating meaningful value for people.
-
-<p align="center">## Our Vision</p>
-
-To build an independent and sustainable technology ecosystem where ideas, knowledge, projects, and people are connected through a shared foundation of simplicity, efficiency, accessibility, and continuous innovation.
-
-<p align="center">## Support Vinexel</p>
-
-Vinexel is built through continuous research, collaboration, and a shared belief that technology should remain simple, efficient, accessible, broad, and interconnected.
-
-Your sponsorship helps us continue developing open initiatives, supporting the ecosystem, improving documentation, and turning meaningful ideas into technology that can benefit everyone.
-
-<p align="center">
-  <a href="https://github.com/sponsors/vinexel">
-    <strong>Become a Sponsor</strong>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <strong>Vision. Innovation. Network.</strong>
-</p>
+Vinexel is a digital ecosystem built around a simple belief: technology should make progress easier, not complexity greater.
+
+It brings together ideas, initiatives, products, and communities within one shared foundation—creating an environment where people can build, create, collaborate, and grow with greater clarity.
+
+## Our Philosophy
+
+Vinexel is inspired by the principles of science, where broad and complex systems can emerge from simple, efficient, and interconnected foundations.
+
+We believe technology should be:
+
+* **Simple** enough to understand.
+* **Efficient** enough to remain sustainable.
+* **Accessible** enough to empower everyone.
+* **Broad** enough to create new possibilities.
+* **Interconnected** enough to grow as one ecosystem.
+
+Technology should not only be powerful. It should also be purposeful, understandable, and capable of creating meaningful value.
+
+## Our Vision
+
+To build an independent and sustainable technology ecosystem where knowledge, ideas, projects, and people are connected through simplicity, efficiency, accessibility, and continuous innovation.
+
+## Support Vinexel
+
+Vinexel grows through research, collaboration, and the support of people who believe in building technology with long-term purpose.
+
+Sponsorship helps us strengthen the ecosystem, support open initiatives, improve knowledge and documentation, and transform meaningful ideas into lasting impact.
+
+<div align="center">
+
+[**Become a Sponsor**](https://vinexel.com/sponsor)
+
+</div>
+
+---
+
+<div align="center">
+
+**Vision. Innovation. Network.**
+
+</div>
