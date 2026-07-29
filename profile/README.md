@@ -1,4 +1,4 @@
-# Vinexel
+<p align="center"># Vinexel</p>
 
 **Vinexel is a digital ecosystem built to create technology that is simpler, more efficient, more integrated, and easier to use.**
 
@@ -10,9 +10,21 @@ We believe technology should follow the same principles. It should be simple eno
 
 The best technology is not only powerful. It is understandable, accessible, purposeful, and capable of creating meaningful value for people.
 
-## Our Vision
+<p align="center">## Our Vision</p>
 
 To build an independent and sustainable technology ecosystem where ideas, knowledge, projects, and people are connected through a shared foundation of simplicity, efficiency, accessibility, and continuous innovation.
+
+<p align="center">## Support Vinexel</p>
+
+Vinexel is built through continuous research, collaboration, and a shared belief that technology should remain simple, efficient, accessible, broad, and interconnected.
+
+Your sponsorship helps us continue developing open initiatives, supporting the ecosystem, improving documentation, and turning meaningful ideas into technology that can benefit everyone.
+
+<p align="center">
+  <a href="https://github.com/sponsors/vinexel">
+    <strong>Become a Sponsor</strong>
+  </a>
+</p>
 
 ---
 
