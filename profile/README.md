@@ -1,193 +1,445 @@
 <div align="center">
 
 <a href="https://vinexel.com">
-  <img src="https://vinexel.com/static/vinexel/images/logo.png" alt="Vinexel Logo" width="110">
+  <img
+    src="https://vinexel.com/static/vinexel/images/logo.png"
+    alt="Vinexel"
+    width="120"
+  />
 </a>
+
+<br>
+<br>
 
 # VINEXEL
 
-### A Science-Driven Ecosystem for Meaningful Technological Progress
-
-**Scientific · Pioneering · Efficient · Accessible · Interconnected**
+### Building Meaningful Technology as One Connected Ecosystem
 
 <br>
 
-[Website](https://vinexel.com) ·
-[Ecosystem](https://github.com/vinexel/ecosystem) ·
-[Framework](https://github.com/vinexel/vinexel) ·
-[Repositories](https://github.com/orgs/vinexel/repositories)
+**SCIENCE · ENGINEERING · INNOVATION · OPEN KNOWLEDGE**
 
 <br>
 
-> Building meaningful technology through first principles, measurable evidence, disciplined engineering, and long-term systems thinking.
+<a href="https://vinexel.com">
+  <img alt="Website" src="https://img.shields.io/badge/Website-vinexel.com-111111?style=for-the-badge">
+</a>
+<a href="https://github.com/vinexel/ecosystem">
+  <img alt="Ecosystem" src="https://img.shields.io/badge/Ecosystem-Explore-111111?style=for-the-badge&logo=github">
+</a>
+<a href="https://github.com/vinexel/vinexel">
+  <img alt="Framework" src="https://img.shields.io/badge/Framework-Open_Source-111111?style=for-the-badge&logo=github">
+</a>
+
+<br>
+<br>
+
+> **Technology should not merely become more powerful.**
+> **It should become more meaningful, understandable, efficient, and accessible.**
 
 </div>
 
+<br>
+
 ---
 
-## Building Technology as One Connected Ecosystem
+<br>
 
-**Vinexel** is an independent technology ecosystem connecting research, open-source initiatives, developer tools, infrastructure, products, knowledge, and communities through one coherent foundation.
+## A Unified Technology Ecosystem
 
-We do not approach technology as a collection of isolated projects. Every Vinexel initiative is designed to contribute knowledge, capability, and lasting value to the wider ecosystem.
+Vinexel is an independent technology ecosystem built around one central idea:
+
+> **Research, software, infrastructure, products, knowledge, and communities should evolve together—not as isolated projects, but as one coherent system.**
+
+Every Vinexel initiative is designed to contribute reusable knowledge, shared capabilities, technical foundations, and long-term value to the wider ecosystem.
+
+<br>
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="25%" align="center" valign="top">
 
-### Simple
+### 01
 
-Clear, understandable, and maintainable by design.
+**Research**
 
-</td>
-<td width="20%" align="center">
-
-### Efficient
-
-Greater capability with fewer unnecessary resources.
+Discovering better ways to understand and solve meaningful problems.
 
 </td>
-<td width="20%" align="center">
+<td width="25%" align="center" valign="top">
 
-### Accessible
+### 02
 
-Technology and knowledge that more people can use.
+**Engineering**
 
-</td>
-<td width="20%" align="center">
-
-### Connected
-
-Projects designed to strengthen one another.
+Transforming validated ideas into reliable technological foundations.
 
 </td>
-<td width="20%" align="center">
+<td width="25%" align="center" valign="top">
 
-### Sustainable
+### 03
 
-Built for continuity, adaptability, and long-term value.
+**Infrastructure**
+
+Creating reusable systems that support broader innovation.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 04
+
+**Ecosystem**
+
+Connecting projects, knowledge, contributors, and communities.
 
 </td>
 </tr>
 </table>
 
----
-
-## How We Think
-
-Vinexel combines scientific reasoning with practical engineering.
-
-| Principle                      | How It Shapes Our Work                                                                         |
-| :----------------------------- | :--------------------------------------------------------------------------------------------- |
-| **First-Principles Thinking**  | We examine problems from their fundamental truths rather than accepting inherited assumptions. |
-| **Evidence-Based Development** | Important decisions are supported by measurable, reproducible, and verifiable results.         |
-| **Continuous Experimentation** | Ideas are treated as hypotheses that must be tested, evaluated, and refined.                   |
-| **Systems Thinking**           | Every component is designed with awareness of its dependencies and wider ecosystem impact.     |
-| **Knowledge Preservation**     | Discoveries, decisions, failures, and lessons are documented for future development.           |
+<br>
 
 ---
 
-## Explore Vinexel
+<br>
+
+## The Vinexel Principles
+
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+
+### SIMPLE
+
+Reduce unnecessary complexity while preserving capability.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### EFFICIENT
+
+Create greater value with fewer wasted resources.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### ACCESSIBLE
+
+Make technology and knowledge easier to understand and use.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### CONNECTED
+
+Design every initiative to strengthen the wider ecosystem.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### SUSTAINABLE
+
+Build foundations capable of evolving across generations.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## The Ecosystem
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Vinexel Framework](https://github.com/vinexel/vinexel)
+### Vinexel Framework
 
-A modern PHP framework designed for modular, multi-project, multi-domain, and scalable application development.
+A modern PHP framework for modular, multi-project, multi-domain, and scalable application development.
 
-</td>
-<td width="50%" valign="top">
+Designed to provide structure without unnecessary restriction and flexibility without architectural disorder.
 
-### [Vinexel Ecosystem](https://github.com/vinexel/ecosystem)
-
-The principles, vision, structure, scientific foundation, and long-term direction behind Vinexel.
+[Explore the Framework →](https://github.com/vinexel/vinexel)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Vinexel Core
 
-An independent core engine responsible for the foundational runtime and internal capabilities of the Vinexel Framework.
+An independent core engine containing the foundational runtime, abstractions, internal services, and shared capabilities that power the framework.
+
+Designed as a clean, reusable, and independently maintainable foundation.
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Vinexel Language
 
-A programming language initiative focused on combining simplicity, architectural clarity, native performance, and developer accessibility.
+A programming-language initiative combining approachable syntax, architectural clarity, native compilation, and high-performance execution.
+
+Its direction is guided by simplicity for humans, predictability for machines, and independence at the runtime level.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Vinexel Studio
 
-An integrated development environment designed to bring development tools, intelligent assistance, project management, and deployment into one unified workspace.
+A unified development environment integrating software development, intelligent assistance, project management, infrastructure operations, testing, and deployment.
+
+Designed to reduce fragmentation across the modern development workflow.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Research and Standards
+
+Open specifications, experiments, architectural studies, engineering principles, and technical standards developed to advance the ecosystem.
+
+Research is treated as a permanent foundation rather than a temporary development phase.
 
 </td>
 <td width="50%" valign="top">
 
-### Research and Open Initiatives
+### Open Knowledge
 
-Experimental technologies, specifications, standards, documentation, and research that contribute to the continued evolution of the ecosystem.
+Documentation, educational resources, implementation references, and recorded technical decisions preserved for contributors and future generations.
+
+Knowledge should remain reusable, verifiable, and accessible.
 
 </td>
 </tr>
 </table>
 
----
-
-## The Ecosystem Cycle
-
-```text
-Research and Knowledge
-          ↓
-Open Initiatives and Standards
-          ↓
-Languages, Frameworks, and Developer Tools
-          ↓
-Platforms, Infrastructure, and Products
-          ↓
-Communities, Collaboration, and Education
-          ↓
-Continuous Research and Discovery
-```
-
-Research informs engineering. Engineering enables products. Products support communities. Communities generate new knowledge and inspire further discovery.
-
----
-
-## Our Direction
-
-Vinexel is built to become an independent, sustainable, and scientifically grounded technology ecosystem where research, engineering, products, knowledge, and communities evolve together.
-
-Our long-term direction is guided by three commitments:
-
-* create original technology that solves meaningful problems;
-* reduce complexity without reducing capability;
-* build interconnected foundations capable of supporting future innovation.
-
----
+<br>
 
 <div align="center">
 
-### Support the research. Advance the technology. Strengthen the ecosystem.
+[**Explore the Vinexel Ecosystem →**](https://github.com/vinexel/ecosystem)
+
+</div>
 
 <br>
 
 ---
 
-### VISION · INNOVATION · NETWORK
+<br>
 
-**Pioneering meaningful technology as one connected ecosystem.**
+## Our Method
+
+Vinexel approaches technology through a disciplined and repeatable process.
+
+```text
+OBSERVE
+   ↓
+QUESTION
+   ↓
+RESEARCH
+   ↓
+FORMULATE
+   ↓
+EXPERIMENT
+   ↓
+MEASURE
+   ↓
+ENGINEER
+   ↓
+DOCUMENT
+   ↓
+CONNECT
+   ↓
+EVOLVE
+```
 
 <br>
 
-<sub>Built with scientific reasoning, engineering discipline, and long-term purpose.</sub>
+| Foundation                 | Practice                                                              |
+| :------------------------- | :-------------------------------------------------------------------- |
+| **First Principles**       | Examine fundamental truths before adopting existing assumptions.      |
+| **Scientific Reasoning**   | Treat important ideas as hypotheses that must be tested.              |
+| **Measurable Evidence**    | Support technical decisions with reproducible results.                |
+| **Engineering Discipline** | Build systems that remain clear, maintainable, and dependable.        |
+| **Systems Thinking**       | Evaluate every component through its wider relationships and effects. |
+| **Knowledge Preservation** | Document discoveries, decisions, failures, and lessons.               |
+| **Long-Term Direction**    | Prioritize durable foundations over temporary technological trends.   |
+
+<br>
+
+---
+
+<br>
+
+## The Vinexel Network
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                  RESEARCH & KNOWLEDGE                 │
+└──────────────────────────┬────────────────────────────┘
+                           │
+                           ▼
+┌───────────────────────────────────────────────────────┐
+│              OPEN INITIATIVES & STANDARDS             │
+└──────────────────────────┬────────────────────────────┘
+                           │
+                           ▼
+┌───────────────────────────────────────────────────────┐
+│        LANGUAGES · FRAMEWORKS · DEVELOPER TOOLS       │
+└──────────────────────────┬────────────────────────────┘
+                           │
+                           ▼
+┌───────────────────────────────────────────────────────┐
+│          PLATFORMS · INFRASTRUCTURE · PRODUCTS        │
+└──────────────────────────┬────────────────────────────┘
+                           │
+                           ▼
+┌───────────────────────────────────────────────────────┐
+│        CONTRIBUTORS · COMMUNITIES · EDUCATION         │
+└──────────────────────────┬────────────────────────────┘
+                           │
+                           ▼
+                NEW QUESTIONS & DISCOVERIES
+                           │
+                           └───────────────► RESEARCH
+```
+
+Every layer strengthens the others.
+
+Research informs engineering.
+Engineering creates foundations.
+Foundations enable products.
+Products support adoption.
+Communities create experience.
+Experience produces new knowledge.
+
+<br>
+
+---
+
+<br>
+
+## The Long-Term Direction
+
+Vinexel is being developed as an independent and scientifically grounded technology ecosystem capable of supporting meaningful innovation over the long term.
+
+Our direction is defined by four commitments.
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### DISCOVER
+
+Research original approaches to meaningful technological problems.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### CREATE
+
+Transform validated ideas into practical and dependable technology.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### CONNECT
+
+Build shared foundations that allow projects to strengthen one another.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### PRESERVE
+
+Keep knowledge, decisions, and discoveries available for future development.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> Vinexel is not being built as a collection of unrelated products.
+> It is being built as a technological foundation from which new ideas, tools, systems, and communities can continue to emerge.
+
+<br>
+
+---
+
+<br>
+
+## Contribute to the Ecosystem
+
+Vinexel welcomes people who believe that meaningful technological progress requires open knowledge, disciplined engineering, original research, and long-term collaboration.
+
+Contributions can include:
+
+* software engineering and architecture;
+* scientific and technical research;
+* specifications and documentation;
+* testing, benchmarking, and security review;
+* developer experience and accessibility;
+* educational resources and localization;
+* infrastructure and ecosystem development.
+
+<div align="center">
+
+<br>
+
+[**View All Repositories**](https://github.com/orgs/vinexel/repositories)
+   
+[**Explore the Ecosystem**](https://github.com/vinexel/ecosystem)
+   
+[**Visit Vinexel**](https://vinexel.com)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### SUPPORT THE RESEARCH
+
+## ADVANCE THE TECHNOLOGY
+
+### STRENGTHEN THE ECOSYSTEM
+
+<br>
+
+Independent research and open-source engineering require sustained time, infrastructure, experimentation, documentation, and maintenance.
+
+Supporting Vinexel helps preserve its independence and enables continued development of open technology, public knowledge, and long-term technological foundations.
+
+<br>
+
+---
+
+<br>
+
+# VISION · INNOVATION · NETWORK
+
+### Pioneering meaningful technology as one connected ecosystem.
+
+<br>
+
+<sub>
+Built with scientific reasoning, engineering discipline, open knowledge, and long-term purpose.
+</sub>
+
+<br>
+<br>
+
+**VINEXEL**
 
 </div>
