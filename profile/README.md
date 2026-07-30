@@ -201,27 +201,7 @@ Our mission is to:
 
 <br>
 
-## Support the Ecosystem
-
-Vinexel grows through independent research, responsible engineering, open collaboration, comprehensive documentation, and the support of individuals and organizations that share our long-term vision.
-
-Sponsorship helps Vinexel:
-
-* sustain open and experimental initiatives;
-* conduct deeper technical research;
-* develop pioneering technologies;
-* improve documentation and educational resources;
-* maintain shared tools and infrastructure;
-* support long-term ecosystem development;
-* and transform promising ideas into reliable technological foundations.
-
-Every contribution strengthens the independence, continuity, and scientific progress of the Vinexel ecosystem.
-
-<br>
-
 <div align="center">
-
-## [Become a Sponsor](https://vinexel.com/sponsor)
 
 ### Support the research. Advance the technology. Strengthen the ecosystem.
 
