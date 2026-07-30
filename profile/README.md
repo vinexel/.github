@@ -11,8 +11,6 @@
 <br>
 <br>
 
-# VINEXEL
-
 ### Building Meaningful Technology as One Connected Ecosystem
 
 <br>
@@ -233,98 +231,6 @@ Knowledge should remain reusable, verifiable, and accessible.
 
 <br>
 
-## Our Method
-
-Vinexel approaches technology through a disciplined and repeatable process.
-
-```text
-OBSERVE
-   ↓
-QUESTION
-   ↓
-RESEARCH
-   ↓
-FORMULATE
-   ↓
-EXPERIMENT
-   ↓
-MEASURE
-   ↓
-ENGINEER
-   ↓
-DOCUMENT
-   ↓
-CONNECT
-   ↓
-EVOLVE
-```
-
-<br>
-
-| Foundation                 | Practice                                                              |
-| :------------------------- | :-------------------------------------------------------------------- |
-| **First Principles**       | Examine fundamental truths before adopting existing assumptions.      |
-| **Scientific Reasoning**   | Treat important ideas as hypotheses that must be tested.              |
-| **Measurable Evidence**    | Support technical decisions with reproducible results.                |
-| **Engineering Discipline** | Build systems that remain clear, maintainable, and dependable.        |
-| **Systems Thinking**       | Evaluate every component through its wider relationships and effects. |
-| **Knowledge Preservation** | Document discoveries, decisions, failures, and lessons.               |
-| **Long-Term Direction**    | Prioritize durable foundations over temporary technological trends.   |
-
-<br>
-
----
-
-<br>
-
-## The Vinexel Network
-
-```text
-┌───────────────────────────────────────────────────────┐
-│                  RESEARCH & KNOWLEDGE                 │
-└──────────────────────────┬────────────────────────────┘
-                           │
-                           ▼
-┌───────────────────────────────────────────────────────┐
-│              OPEN INITIATIVES & STANDARDS             │
-└──────────────────────────┬────────────────────────────┘
-                           │
-                           ▼
-┌───────────────────────────────────────────────────────┐
-│        LANGUAGES · FRAMEWORKS · DEVELOPER TOOLS       │
-└──────────────────────────┬────────────────────────────┘
-                           │
-                           ▼
-┌───────────────────────────────────────────────────────┐
-│          PLATFORMS · INFRASTRUCTURE · PRODUCTS        │
-└──────────────────────────┬────────────────────────────┘
-                           │
-                           ▼
-┌───────────────────────────────────────────────────────┐
-│        CONTRIBUTORS · COMMUNITIES · EDUCATION         │
-└──────────────────────────┬────────────────────────────┘
-                           │
-                           ▼
-                NEW QUESTIONS & DISCOVERIES
-                           │
-                           └───────────────► RESEARCH
-```
-
-Every layer strengthens the others.
-
-Research informs engineering.
-Engineering creates foundations.
-Foundations enable products.
-Products support adoption.
-Communities create experience.
-Experience produces new knowledge.
-
-<br>
-
----
-
-<br>
-
 ## The Long-Term Direction
 
 Vinexel is being developed as an independent and scientifically grounded technology ecosystem capable of supporting meaningful innovation over the long term.
@@ -371,24 +277,6 @@ Keep knowledge, decisions, and discoveries available for future development.
 
 <br>
 
----
-
-<br>
-
-## Contribute to the Ecosystem
-
-Vinexel welcomes people who believe that meaningful technological progress requires open knowledge, disciplined engineering, original research, and long-term collaboration.
-
-Contributions can include:
-
-* software engineering and architecture;
-* scientific and technical research;
-* specifications and documentation;
-* testing, benchmarking, and security review;
-* developer experience and accessibility;
-* educational resources and localization;
-* infrastructure and ecosystem development.
-
 <div align="center">
 
 <br>
@@ -409,17 +297,15 @@ Contributions can include:
 
 <div align="center">
 
-### SUPPORT THE RESEARCH
-
-## ADVANCE THE TECHNOLOGY
-
-### STRENGTHEN THE ECOSYSTEM
-
-<br>
-
 Independent research and open-source engineering require sustained time, infrastructure, experimentation, documentation, and maintenance.
 
 Supporting Vinexel helps preserve its independence and enables continued development of open technology, public knowledge, and long-term technological foundations.
+
+<br>
+
+<sub>
+SUPPORT THE RESEARCH - ADVANCE THE TECHNOLOGY - STRENGTHEN THE ECOSYSTEM
+</sub>
 
 <br>
 
@@ -427,9 +313,7 @@ Supporting Vinexel helps preserve its independence and enables continued develop
 
 <br>
 
-# VISION · INNOVATION · NETWORK
-
-### Pioneering meaningful technology as one connected ecosystem.
+## VISION · INNOVATION · NETWORK
 
 <br>
 
@@ -439,7 +323,5 @@ Built with scientific reasoning, engineering discipline, open knowledge, and lon
 
 <br>
 <br>
-
-**VINEXEL**
 
 </div>
